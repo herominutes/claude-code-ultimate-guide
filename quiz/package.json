@@ -23,12 +23,12 @@
   "dependencies": {
     "chalk": "^5.3.0",
     "inquirer": "^9.2.12",
-    "yaml": "^2.8.2"
+    "yaml": "^2.8.3"
   },
   "engines": {
     "node": ">=18.0.0"
   },
   "devDependencies": {
-    "js-yaml": "^4.1.1"
+    "js-yaml": "^4.3.2"
   }
 }
